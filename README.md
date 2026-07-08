@@ -145,3 +145,171 @@ Illustrates how disciplined execution can recover substantial losses and restore
 ### 🟡 Profit Protection
 
 Demonstrates how protecting earlier gains during prolonged losing periods is equally important as generating profits.
+# 🔍 Key Behavioural Findings
+
+The analysis revealed that trading success was not determined by a single metric such as win rate or total trades. Instead, long-term profitability emerged from the interaction of multiple behavioural factors.
+
+### 📌 1. Profitability is not driven by Win Rate alone
+
+Most accounts recorded **more losing trades than winning trades**, yet several still finished in profit.
+
+The analysis showed that maintaining **controlled losses while allowing winning trades to run** had a greater impact on profitability than simply increasing the percentage of winning trades.
+
+---
+
+### 📌 2. Consistency Outperformed Speed
+
+The account with the highest final profit was **not the one that experienced the fastest growth.**
+
+Instead, disciplined execution, controlled risk and steady compounding produced superior long-term performance.
+
+This demonstrates that sustainable growth often outperforms rapid but inconsistent gains.
+
+---
+
+### 📌 3. Recovery Requires Behavioural Discipline
+
+One account experienced a significant drawdown before returning to profitability.
+
+Rather than increasing position size or taking excessive risk, profitability was restored through consistent execution during the following profitable phase.
+
+The analysis highlights that recovery is primarily a behavioural process rather than a mathematical one.
+
+---
+
+### 📌 4. Capital Protection is Part of Profitability
+
+One account entered a prolonged losing phase but still preserved most of its earlier gains.
+
+This demonstrates that protecting accumulated profits is equally important as generating them.
+
+Long-term success depends not only on making money, but also on keeping it.
+
+---
+
+### 📌 5. Position Sizing Should Follow Market Conditions
+
+Position size remained aligned with market conditions and trade quality instead of reacting emotionally to previous profits or losses.
+
+This helped maintain consistent risk exposure throughout changing market environments.
+
+---
+
+# 💼 Business Learnings
+
+This project extends beyond trading analysis.
+
+It demonstrates several principles that are equally valuable in business decision-making.
+
+- Consistency often outperforms short-term acceleration.
+- Risk management creates sustainability.
+- Recovery depends on disciplined execution rather than emotional decisions.
+- Capital preservation is an essential component of long-term performance.
+- Multiple behavioural factors must align to achieve consistent results.
+
+These concepts apply not only to financial markets but also to business strategy, portfolio management and operational decision-making.
+
+---
+
+# 🛠️ Skills Demonstrated
+
+### Business Understanding
+
+- Behaviour-based Performance Analysis
+- Risk Management Interpretation
+- Performance Storytelling
+- Decision-making Analysis
+- Business Insight Generation
+
+### Power BI
+
+- Interactive Dashboard Design
+- DAX Measures
+- Data Modelling
+- KPI Development
+- Advanced Visualisation
+- Cross-filtering & Navigation
+- Report Storytelling
+
+### Data Analysis
+
+- Performance Analysis
+- Behavioural Trend Identification
+- Comparative Analysis
+- Profitability Assessment
+- Risk vs Reward Evaluation
+
+---
+
+# ⚙️ Tools & Technologies
+
+- **Power BI Desktop**
+- **Power Query**
+- **DAX**
+- **Data Modelling**
+- **Microsoft Excel**
+- **Git & GitHub**
+
+---
+
+# 📁 Project Structure
+
+```
+Trading-Behaviour-Intelligence
+│
+├── Dataset/
+│
+├── Dashboard/
+│   ├── Trading Behaviour Intelligence.pbix
+│
+├── Images/
+│   ├── Performance Overview.png
+│   ├── Behaviour Analysis.png
+│   ├── Performance Through Phases.png
+│
+├── Presentation/
+│
+└── README.md
+```
+
+---
+
+# 📷 Dashboard Preview
+
+### 📄 Performance Overview
+
+> *(Insert Dashboard Screenshot Here)*
+
+---
+
+### 📄 Behaviour Analysis
+
+> *(Insert Dashboard Screenshot Here)*
+
+---
+
+### 📄 Performance Through Phases
+
+> *(Insert Dashboard Screenshot Here)*
+
+---
+
+# 🎯 Final Conclusion
+
+Trading performance cannot be explained by profit alone.
+
+Across four independent account journeys, this project demonstrates that **long-term profitability is the outcome of disciplined behaviour across different trading phases rather than isolated winning streaks.**
+
+Fast growth creates opportunities.
+
+Consistency builds long-term performance.
+
+Recovery demands discipline.
+
+Capital protection preserves progress.
+
+Ultimately, sustainable profitability comes from adapting behaviour to both the trader's current phase and changing market conditions—not from any single metric.
+
+---
+
+## ⭐ If you found this project interesting, feel free to connect or share your feedback!
