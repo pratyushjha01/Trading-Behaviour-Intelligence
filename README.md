@@ -280,7 +280,7 @@ Trading-Behaviour-Intelligence
 
 ## 📄 Performance Overview
 
-![Performance Overview](Images/performance-overview.png)
+![Performance Overview](Images/performance-overview)
 
 *High-level overview of overall trading performance, KPIs and account comparison.*
 
