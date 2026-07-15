@@ -288,14 +288,21 @@ Trading-Behaviour-Intelligence
 
 ### 📄 Behaviour Analysis
 
-> *(Insert Dashboard Screenshot Here)*
+## 📄 Behaviour Analysis
+
+![Behaviour Analysis](Images/behaviour-analysis.png)
+
+*Behaviour-focused analysis highlighting risk management, profitability drivers and trading discipline.*
 
 ---
 
 ### 📄 Performance Through Phases
 
-> *(Insert Dashboard Screenshot Here)*
+## 📄 Performance Through Phases
 
+![Performance Through Phases](Images/performance-through-phases.png)
+
+*Equity curve analysis showing growth, drawdown recovery and profit protection across different trading phases.*
 ---
 
 # 🎯 Final Conclusion
