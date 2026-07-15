@@ -276,34 +276,27 @@ Trading-Behaviour-Intelligence
 
 # 📷 Dashboard Preview
 
-### 📄 Performance Overview
-
 ## 📄 Performance Overview
 
-![Performance Overview](Images/performance-overview)
+![Performance Overview](T_P/performance-overview.png)
 
 *High-level overview of overall trading performance, KPIs and account comparison.*
 
 ---
 
-### 📄 Behaviour Analysis
-
 ## 📄 Behaviour Analysis
 
-![Behaviour Analysis](Images/behaviour-analysis.png)
+![Behaviour Analysis](T_P/behaviour-analysis.png)
 
 *Behaviour-focused analysis highlighting risk management, profitability drivers and trading discipline.*
 
 ---
 
-### 📄 Performance Through Phases
-
 ## 📄 Performance Through Phases
 
-![Performance Through Phases](Images/performance-through-phases.png)
+![Performance Through Phases](T_P/performance-through-phases.png)
 
 *Equity curve analysis showing growth, drawdown recovery and profit protection across different trading phases.*
----
 
 # 🎯 Final Conclusion
 
