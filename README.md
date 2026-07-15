@@ -278,7 +278,11 @@ Trading-Behaviour-Intelligence
 
 ### 📄 Performance Overview
 
-> *(Insert Dashboard Screenshot Here)*
+## 📄 Performance Overview
+
+![Performance Overview](Images/performance-overview.png)
+
+*High-level overview of overall trading performance, KPIs and account comparison.*
 
 ---
 
